@@ -31,7 +31,7 @@ export default function Registerscreen() {
   }
 
   return (
-    <div>
+    <div className='register'>
       <div className="row justify-content-center mt-5">
         <div className="col-md-5 mt-5 text-left shadow-lg p-3 mb-5 bg-white rounded">
 
